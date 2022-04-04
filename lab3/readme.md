@@ -3,9 +3,10 @@
   - [Skrypt 1](#skrypt-1)
   
   #### Skrypt 1
-# W zadanym drzewie katalogów znaleźć podkatalogi, do których właściciel nie ma prawa odczytu 
-# lub prawa wykonania, natomiast ktoś inny (właściciel grupowy lub nie) ma prawo zapisu. 
-# Skrypt nie powinien zakładać żadnych dodatkowych warunków dotyczących praw dostępu.
+W zadanym drzewie katalogów znaleźć podkatalogi, do których właściciel nie ma prawa odczytu 
+lub prawa wykonania, natomiast ktoś inny (właściciel grupowy lub nie) ma prawo zapisu. 
+Skrypt nie powinien zakładać żadnych dodatkowych warunków dotyczących praw dostępu.
+
 ```bash
 #! /bin/bash
 
